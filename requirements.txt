@@ -1,2 +1,13 @@
-# No third-party packages required.
-# The script uses only Python's standard library.
+# This script uses Python standard-library modules only:
+# csv
+# io
+# json
+# logging
+# os
+# re
+# tempfile
+# unicodedata
+# concurrent.futures
+# pathlib
+# urllib.request
+# No pip install required
